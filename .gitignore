@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+rekey.db
+rekey.db-journal
+eval/report.md
+eval/results/
+demo-app/.vercel/
+*.mp4
